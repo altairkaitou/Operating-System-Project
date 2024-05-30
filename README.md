@@ -100,7 +100,7 @@ The project demonstrates the implementation of a multi-level queue scheduler and
 
 ---
 
-**Author:** Your Name  
+**Author:** Le Minh Gia Bao  
 **Course:** Operating System - CO2018  
 **Institution:** Ho Chi Minh City University of Technology - VNU-HCM  
 **Date:** 2023-2024
