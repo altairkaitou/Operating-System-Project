@@ -1,0 +1,27 @@
+# Log file
+*.log
+
+# BlueJ files
+*.ctxt
+
+# Package Files #
+*.war
+*.nar
+*.ear
+*.zip
+*.tar.gz
+*.rar
+
+# editor/ide project files
+*.project
+*.iml
+/out/
+/.idea/
+/ant/
+/.vscode/
+
+# output files
+os
+
+# object files
+/obj/
